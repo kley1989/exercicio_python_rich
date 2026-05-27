@@ -1,0 +1,12 @@
+Relatório de Teste do Personalizador
+------------------------------------
+Este arquivo contém o texto de entrada para validar 
+a integração entre o módulo argparse e a biblioteca Rich.
+
+Objetivos do teste:
+1. Verificar se o main.py lê arquivos corretamente (opção -a).
+2. Testar a exibição em painéis coloridos.
+3. Validar a simulação da barra de progresso.
+4. Experimentar os estilos de texto e layouts.
+
+Status: Pronto para processamento!
